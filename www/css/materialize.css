@@ -8479,11 +8479,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 .gradien_ungu{
     text-align: center;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffaf4b+0,fc519f+100 */
-background: #ebb5b8; /* Old browsers */
-background: -moz-linear-gradient(-45deg, #ebb5b8 0%, #bf686e 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, #ebb5b8 0%,#bf686e 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, #ebb5b8 0%,#bf686e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebb5b8', endColorstr='#bf686e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background: #fb95aa; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #fb95aa 0%, #ff7ab1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #fb95aa 0%,#ff7ab1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #fb95aa 0%,#ff7ab1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb95aa', endColorstr='#ff7ab1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 .welcome {
     width: 100%;
